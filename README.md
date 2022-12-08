@@ -8,8 +8,9 @@
 - Designing a recommender from scratch is a time-consuming task.  In this project, it is to explore the data and create features that will be used to build the recommender.
 
 - Below are the links of the csv data containing the information to perform EDA.
-# raw recipe data
+
+#### raw recipe data
 https://raw-recipes-clean-upgrad.s3.amazonaws.com/RAW_recipes_cleaned.csv
 
-# raw ratings data
+#### raw ratings data
 https://raw-interactions-upgrad.s3.amazonaws.com/RAW_interactions_cleaned.csv
